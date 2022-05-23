@@ -46,6 +46,6 @@
 	<li> Valor de retorno </li>
  </ul>
 <br>
- <li> <b> Objetivo: </b> Crear un programa en C que se modifico prog3_3 para ser 3_4 agregando la funcion de ordenar por promedio   </li>
+ <li> <b> Objetivo: </b> Crear un programa en C que se modifico prog3_3 para ser 3_4 agregando la funcion de ordenar por promedio.   </li>
  <br>
  <li><b> Breve descripción: </b> Programa en C que conforma la tarea 7 para la materia programacion estructurada. </li>
